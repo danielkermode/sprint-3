@@ -1,0 +1,2 @@
+##  What happens to the layout when you resize the screen to less than 550 px?
+The columns collapse. A media query changes the screen width if it is greater than 550px to decrease the width of columns, so prior to this the columns have a greater width and become stacked.
